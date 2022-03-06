@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertaguilera712&label=Profile%20views&color=ef2929&style=flat" alt="robertaguilera712" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertaguilera712&theme=gruvbox" alt="robertaguilera712" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertaguilera712" alt="robertaguilera712" /></a> </p>
 
 - 🔭 I’m currently working on [CISOjr4DROID](https://github.com/RobertAguilera712/cisojr4droid)
 
